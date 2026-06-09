@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "daa0c1cf-7572-47b5-b565-577142018127",
+    "Name": "колбаса",
+    "Description": "сервелат",
+    "PathImage": "/images/sausage.jpg",
+    "Cost": 1300
+  },
+  {
+    "Id": "daa0c1cf-7572-47b5-b565-577142018123",
+    "Name": "игра",
+    "Description": "имитация",
+    "PathImage": "https://moretorg55.ru/d/763c5388b8a310c97cc46f0bbeab94fb.jpg",
+    "Cost": 1300
+  }
+]
